@@ -1,0 +1,49 @@
+.bb{
+    background-color: rgb(146, 84, 61);
+}
+
+.searchform{
+    padding:10px;
+}
+
+.btn
+{
+    border: 2px solid rgb(240, 159, 9);
+    color:white
+}
+
+
+.card{
+    height: 100%;
+    width: 100%;
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+.box {
+    width:345px;
+    height:550px;
+    
+    padding: 10px;
+    margin: 20px;
+    border: 1px solid #3ebde0;
+    /* flex: 1; */
+  
+   
+}
+
+.im{
+    width:50%;
+    height: 50%;
+    margin-top:25px;
+    margin-left:25%;
+    border:1px solid black;
+   
+}
+
+
+.ccc{
+    width:50%;
+    height: 50%;
+    margin-left:20%;
+}
